@@ -9,13 +9,15 @@ Entry for the [make.fun](https://make.fun/bounty/u-motasimfuad-have-you-tried-tu
 `main.py` writes one funny line a hopeless tech support agent says to a
 desperate customer, under 200 characters, to `/output/entry.txt`:
 
-> Sir, I have restarted the router, the modem, and my faith in humanity. The router came back. My faith is still buffering.
+> I turned it off and on again. The router forgave me, the printer is pressing charges, and your password is still 'password123'.
 
-Why it works: the line starts with the most exhausted sentence in tech
-support, then escalates — the agent has restarted everything, not just
-the router: the modem, his faith in humanity. The punchline is the
-ranking at the end: of everything he restarted, only the router came
-back. His faith is still buffering, and the customer is still desperate.
+Why it works: the line keeps the sacred ritual — turn it off and on
+again — but the ritual works too well on the wrong things. The router
+forgives the agent, the printer escalates to legal action, and the
+customer's password turns out to be the one password every support agent
+has seen a thousand times. The punchline lands because the agent fixed
+everything except the actual security problem, and he reports it with
+total professional calm.
 
 Run it with:
 
@@ -23,5 +25,5 @@ Run it with:
 python3 main.py
 ```
 
-Verified 25 Nov 2026: the line is 121 characters on one line, and two
+Verified 25 Nov 2026: the line is 127 characters on one line, and two
 runs produce byte-identical output.
